@@ -1,4 +1,4 @@
-# JAVA-SWING-PROJECTS-
+# JAVA-SWING-IP FINDER-
 This repository consists of some basic projects on JAVA SWING that I did.
 IP finder establishes the IP address of any URL you give to the application. This application has been developed using JAVA SWING
 There are two files related to IP finder :
